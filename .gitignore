@@ -1,0 +1,5 @@
+venv/
+.env
+.project_config
+.DS_Store
+.idea/
